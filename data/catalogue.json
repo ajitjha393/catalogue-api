@@ -1,0 +1,55 @@
+{
+	"catalogueList": [
+		{
+			"id": 100,
+			"currentViewingNow": 2,
+			"title": "Ethnic Wear November 2017",
+			"lastOpened": "Last opened 2 minutes ago",
+			"visitors": 16,
+			"unreadVisitors": 6,
+			"inquiries": 10,
+			"unreadInquiries": 2,
+			"productUrls": "https://www.google.com",
+			"productCount": 14
+		},
+
+		{
+			"id": 101,
+			"currentViewingNow": 3,
+			"title": "Ethnic Wear November 2018",
+			"lastOpened": "Last opened 1 minutes ago",
+			"visitors": 15,
+			"unreadVisitors": 5,
+			"inquiries": 11,
+			"unreadInquiries": 3,
+			"productUrls": "https://www.google.com",
+			"productCount": 12
+		},
+
+		{
+			"id": 102,
+			"currentViewingNow": 4,
+			"title": "Ethnic Wear November 2019",
+			"lastOpened": "Last opened 3 minutes ago",
+			"visitors": 15,
+			"unreadVisitors": 8,
+			"inquiries": 14,
+			"unreadInquiries": 6,
+			"productUrls": "https://www.google.com",
+			"productCount": 18
+		},
+
+		{
+			"id": 103,
+			"currentViewingNow": 5,
+			"title": "Ethnic Wear November 2020",
+			"lastOpened": "Last opened 5 minutes ago",
+			"visitors": 19,
+			"unreadVisitors": 2,
+			"inquiries": 13,
+			"unreadInquiries": 1,
+			"productUrls": "https://www.google.com",
+			"productCount": 16
+		}
+	]
+}
